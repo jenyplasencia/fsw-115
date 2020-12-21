@@ -1,0 +1,115 @@
+{
+	"menu": [
+		{
+        
+			"appetaizers": [
+				{"nachos":
+					{
+					"ingredients":["nachos", "cheese"],
+					"description": "home madde nachos and 3 types of Mexican cheese"
+					}
+				},
+				{"devil eggs":
+					{
+					"ingredients":["eggs", "mayonnaise", "mustard"],
+					"description": "boliled eggs filled with a home made mayonnaise and mustard"
+					}
+				},
+					
+				{"stuffed jalapenos":
+					{
+					"ingredients":["jalapenos", "sauge", "stuffing"],
+					"description": "jalapenos filed with stuffing including Italian sauge"
+					}
+				}
+			],
+						
+			"cold sandwiches": [
+				{"special turkey":
+					{
+					"ingredients":["turkey", "ham", "cheese"],
+					"description": "two time turkey with ham and cheese in a itlian bread"
+					}
+				},
+				{"wild tuna":
+					{
+					"ingredients":["tuna", "egg", "mayonnaise"],
+					"description": "tuna and eggs mixed with home made mayonnaise"
+					}
+				},
+					
+				{"decoding the chicken":
+					{
+					"ingredients":["chicken", "egg", "mayonnaise"],
+					"description": "pulled breast chicken mixed with edd and home made mayonnaise "
+					}
+				}
+			],			
+
+			"hotsandwiches": [
+				{"grilled chicken":
+					{
+					"ingredients":["chicken", "lettuce", "tomato", "mayonnaise"],
+					"description": "a hole piece of breast grilled chicken served with tomato, lettuce  and home made mayonnaise"
+					}
+				},
+				{"mystic fish":
+					{
+					"ingredients":["fish", "bacon", "lettuce", "tomato", "mayonnaise"],
+					"description": "a hole piece of breast fry chicken (tilapia) served with bacon, tomato, lettuce  and home made mayonnaise"
+					}
+				},
+				{"simply turkey":
+					{
+					"ingredients":["turkey", "bacon", "lettuce", "mayonnaise"],
+					"description": "a hole piece of breast fry turkey served with bacon, lettuce and home made mayonnaise"
+					}
+				}
+			],
+
+			"desserts": [
+				{"pean pie":
+					{
+					"ingredients":["pecan", "filling", "crust"],
+					"description": "baked pie with a thin crust filled with pecasn and sweet filling" 
+					}
+				},
+				{"lemon pie":
+					{
+					"ingredients":["pecan", "filling", "crust"],
+					"description": "baked pie with a thin crust filled with lemon and sweet filling" 
+					}
+				},
+				{"wild chocolate cake":
+					{
+					"ingredients":["chocolate", "mocka", "flour", "sugar"],
+					"description": "chocolate cake mixed with mocha"
+					}
+				}
+			],
+
+			"drinks":[ 
+				{"iced irish coffee":
+					{
+					"ingredients":["Tullamore", "ground espresso", "demerara sugar", "hot water", "cold brew coffee", "Fresh cream"],
+					"description": "mixed beverage, 15% alcohol, strained through coffee filter and topped with cream"
+					}
+				},
+				{"hot boozy coffee":
+					{
+					"ingredients":["Brandy", "Grand Marnier", "Kahlua", "hot coffee", "orange peel", "whipped cream"],
+					"description": "mixed beverage, 15% alcohol decorated with orange peel"
+					}
+				},
+				{"house margarita":
+					{
+					"ingredients":["blanco tequila", "orange liqueur", "lime juice", "agave syrup", "lime wheel", "kosher salt"],
+					"description": "mixed beverage, 15% alcohol garnisg with kosher salt"
+					}
+				}
+			]
+		}
+	]
+}
+	
+			

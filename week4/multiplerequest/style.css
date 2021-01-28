@@ -1,0 +1,57 @@
+body {
+    padding: 20px;
+    background-image: url("./wall.jpeg")
+    
+    
+  }
+h1{
+      color:black;
+      text-align: center;
+      font-family: Arial;
+      font-size: 35px;
+}
+
+h2{
+    color:black;
+    text-align: center;
+    font-family: Arial;
+    font-size: 30px;
+}
+
+Button{
+    margin-top: 20px;
+    line-height: 60px;
+    font-weight: bold;
+    padding: 0 20px;
+    background: lightblue;
+    border: 2px solid black;
+    border-radius: 12px;
+    font-size: 20px;
+    
+}
+ p > a {
+     font-size: 25px;
+     float: right;
+     color: red;
+
+     
+
+ }
+ol{
+    color: white;
+    text-align: center;
+    font-family: Arial;
+    font-size: 18px;
+  }
+
+li {
+    color:black;
+    text-align: center;
+    font-size: 25px;
+    font-family: Arial;
+    line-height: 1.7;
+    font-weight: bold;
+
+}
+
+  
